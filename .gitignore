@@ -1,0 +1,16 @@
+# Global ignores for the whole repo
+node_modules/
+.env
+.env.local
+.env.development
+.env.production
+
+# Build and cache
+frontend/dist/
+backend/.cache/
+
+# System files
+.DS_Store
+.vscode/
+.idea/
+
