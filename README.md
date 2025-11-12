@@ -92,25 +92,6 @@ npm run dev
 
 ---
 
-## 📌 Learnings
 
-This project helped me explore:
-✔ How LLMs behave with and without RAG
-✔ Context injection using embeddings
-✔ Full-stack AI workflow
-✔ Debugging LLM pipelines end-to-end
 
----
 
-## 🔗 Source Code
-
-**Frontend + Backend:**
-[https://github.com/gowthamiedamalapati/AI-Code-Review-Assistant](https://github.com/gowthamiedamalapati/AI-Code-Review-Assistant)
-
----
-
-If you want, I can also generate:
-✅ A **project diagram**
-✅ A **demo GIF**
-✅ A more advanced README with badges & screenshots
-Just tell me!
